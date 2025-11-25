@@ -1,0 +1,1 @@
+An ML project that predicts the best career path based on a user's skills, interests, and work style.
